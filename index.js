@@ -116,7 +116,7 @@ async function starts() {
 
 			mess = {
 				wait: '⌛ Aguarde um pouco... ⌛',
-				success: '✔️ Berhasil ✔️',
+				success: '✔️ Sucesso ✔️',
 				error: {
 					stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
 					Iv: '❌ Link inválido ❌'
